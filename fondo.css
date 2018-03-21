@@ -1,0 +1,11 @@
+.fondo{
+    background-image: url("img/fondo.jpg");
+    font-family: fuenteExterna;
+    letter-spacing: 2px
+
+}
+@font-face {
+    font-family: fuenteExterna;
+    src: url(arcade.TTF);         
+
+}
